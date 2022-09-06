@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "kernelshap",
+    "oncran": true
+  },
+  {
     "package": "MetricsWeighted",
     "oncran": true
   },

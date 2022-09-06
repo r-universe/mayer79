@@ -13,6 +13,11 @@
 	url = https://github.com/mayer79/flashlight
 	shallow = true
 	registered = true
+[submodule "kernelshap"]
+	path = kernelshap
+	url = https://github.com/mayer79/kernelshap
+	shallow = true
+	registered = true
 [submodule "MetricsWeighted"]
 	path = MetricsWeighted
 	url = https://github.com/mayer79/metricsweighted
