@@ -12,6 +12,14 @@
     "oncran": true
   },
   {
+    "package": "MetricsWeighted",
+    "oncran": true
+  },
+  {
+    "package": "missRanger",
+    "oncran": true
+  },
+  {
     "package": "outForest",
     "oncran": true
   },
