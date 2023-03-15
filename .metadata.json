@@ -4,6 +4,18 @@
     "oncran": true
   },
   {
+    "package": "flashlight",
+    "oncran": true
+  },
+  {
+    "package": "MetricsWeighted",
+    "oncran": true
+  },
+  {
+    "package": "missRanger",
+    "oncran": true
+  },
+  {
     "package": "outForest",
     "oncran": true
   },
@@ -12,19 +24,7 @@
     "oncran": true
   },
   {
-    "package": "missRanger",
-    "oncran": true
-  },
-  {
     "package": "splitTools",
-    "oncran": true
-  },
-  {
-    "package": "flashlight",
-    "oncran": true
-  },
-  {
-    "package": "MetricsWeighted",
     "oncran": true
   }
 ]
