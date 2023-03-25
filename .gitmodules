@@ -28,11 +28,6 @@
 	url = https://github.com/mayer79/outforest
 	shallow = true
 	registered = true
-[submodule "shapviz"]
-	path = shapviz
-	url = https://github.com/mayer79/shapviz
-	shallow = true
-	registered = true
 [submodule "splitTools"]
 	path = splitTools
 	url = https://github.com/mayer79/splittools
