@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "confintr"]
 	path = confintr
 	url = https://github.com/mayer79/confintr
-	shallow = true
-	registered = true
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/mayer79/flashlight
-	shallow = true
-	registered = true
 [submodule "MetricsWeighted"]
 	path = MetricsWeighted
 	url = https://github.com/mayer79/metricsweighted
-	shallow = true
-	registered = true
 [submodule "missRanger"]
 	path = missRanger
 	url = https://github.com/mayer79/missranger
-	shallow = true
-	registered = true
 [submodule "outForest"]
 	path = outForest
 	url = https://github.com/mayer79/outforest
-	shallow = true
-	registered = true
 [submodule "splitTools"]
 	path = splitTools
 	url = https://github.com/mayer79/splittools
-	shallow = true
-	registered = true
