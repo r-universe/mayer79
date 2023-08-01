@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MetricsWeighted"]
+	path = MetricsWeighted
+	url = https://github.com/mayer79/metricsweighted
 [submodule "confintr"]
 	path = confintr
 	url = https://github.com/mayer79/confintr
@@ -11,9 +14,6 @@
 [submodule "hstats"]
 	path = hstats
 	url = https://github.com/mayer79/hstats
-[submodule "MetricsWeighted"]
-	path = MetricsWeighted
-	url = https://github.com/mayer79/metricsweighted
 [submodule "missRanger"]
 	path = missRanger
 	url = https://github.com/mayer79/missranger
