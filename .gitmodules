@@ -11,9 +11,6 @@
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/mayer79/flashlight
-[submodule "hstats"]
-	path = hstats
-	url = https://github.com/mayer79/hstats
 [submodule "missRanger"]
 	path = missRanger
 	url = https://github.com/mayer79/missranger
