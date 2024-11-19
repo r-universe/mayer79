@@ -8,6 +8,9 @@
 [submodule "confintr"]
 	path = confintr
 	url = https://github.com/mayer79/confintr
+[submodule "effectplots"]
+	path = effectplots
+	url = https://github.com/mayer79/effectplots
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/mayer79/flashlight
